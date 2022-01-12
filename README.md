@@ -1,9 +1,10 @@
 ## Msc. Lucas G. P. Caramês
 ### PhD Student, Researcher and Data Scientist
 <div align="center">
+  
   <a href="https://github.com/lgpcarames">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgpcarames&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgpcarames&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://lgpcarames.vercel.app/api?username=lgpcarames&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://lgpcarames.vercel.app/api/top-langs/?username=lgpcarames&layout=compact&langs_count=7&theme=outrun"/>
   <img align="right" alt="lucas-pic" width="400" style="border-radius:25px;" src="https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465">
 </div>
 <div style="display: inline_block"><br>
