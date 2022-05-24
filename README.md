@@ -1,29 +1,29 @@
 # Sobre Mim
 
-![Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará. Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio, arte e análises de imagem e texto.](https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465)
 
-<!--
 <body>
 <div class="container">
 
   
-  <div class="text">
-  <h5> Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará. Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio, arte e análises de imagem e texto.</h5>  
-  </div>
+  <div class="text" align="left">
+  <p> Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará.
+    Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando
+    com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico
+    em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio,
+    arte e análises de imagem e texto.</p>  
+ 
 
-  <div class="image" style="display:inline-block;vertical-align:top;">
+  <div class="image">
     <img src="https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465">
   </div>
-  
+  </div>
 
   
-  </body>!-->
-  
+  </body>
+ 
   <a href="https://instagram.com/lgpcarames" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lgpcarames@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-caramês-935291210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!--![Snake animation](https://github.com/lgpcarames/lgpcarames/blob/output/github-contribution-grid-snake.svg)-->
  
   </div>
   
@@ -84,8 +84,10 @@
   <a href="https://github.com/lgpcarames">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgpcarames&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgpcarames&layout=compact&langs_count=7&theme=outrun"/>
-
+   
 </div>
+  
+  ![Snake animation](https://github.com/lgpcarames/lgpcarames/blob/output/github-contribution-grid-snake.svg)
   
   
  
