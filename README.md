@@ -1,6 +1,20 @@
 # Sobre Mim
-- Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará. Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio, arte e análises de imagem e texto.
-<div> 
+<body>
+<div class="container">
+
+  
+  <div class="text">
+  <h5> Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará. Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio, arte e análises de imagem e texto.</h5>  
+  </div>
+
+  <div class="image" style="display:inline-block;vertical-align:top;">
+    <img src="https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465">
+  </div>
+  
+
+  
+  </body>
+  
   <a href="https://instagram.com/lgpcarames" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lgpcarames@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-caramês-935291210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -32,22 +46,41 @@
   <img align="center" alt="sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
   <img align="center" alt="overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white">
   <img align="center" alt="wolframlanguage" src="https://img.shields.io/badge/-Wolfram_Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white">
-  
-  
+  <img align="center" alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+ 
  
 </div>
 
 # Projetos
+- [Modelo de Análise Preditiva de Dados de Máquinas Industriais](https://github.com/lgpcarames/industrial_model)
+- [Análise de Perda de Funcionários (Attrition)](https://github.com/lgpcarames/people_analytics)
+- [Rede Neural Compositora de Músicas](https://github.com/lgpcarames/MusicGenerator)
+- [Previsão dos Sobreviventes do Titanic](https://github.com/lgpcarames/titanic_challenger)
+- [Reconhecedor de Imagens](https://github.com/lgpcarames/image_recognition)
+- [Reconhecedor de Faces](https://github.com/lgpcarames/face_recognition)
+
+## Notas de Aula
+- Notas sobre [AWS](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Notas_AWS)
+- Notas sobre [Docker](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Notas_Docker)
+- Notas sobre [R](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Notas_R/Aulas)
+- Notas sobre [SQL & NoSQL](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Notas_SQL_NoSQL)
+- Estudo e Aplicação de alguns dos principais [Algoritmos de Classificação de ML](https://github.com/lgpcarames/mlnotes/blob/main/Notas_Portugues/Notas_ML/Notas_Machine_Learning_Aplicacao_dos_algoritmos.ipynb)
+- Algumas das principais técnicas de [Limpeza e Tratamento de Dados](https://github.com/lgpcarames/mlnotes/blob/main/Notas_Portugues/Notas_ML/Notas_Machine_Learning_Tratamento_de_Dados.ipynb)
+- [Padrões de Projeto em Python](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Python_Files/Python_/Design_Patterns)
+- [Introdução ao Keras TensorFlow](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Python_Files/ML_/Keras_Intro)
+- [Classificação de Pacientes com Câncer de Mama Usando TensorFlow](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Python_Files/ML_/tf2_course/breast_cancer)
+- [Obtendo a lei de Moore usando TensorFlow](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Python_Files/ML_/tf2_course/moore_law)
+- Construindo uma rede neural [Perceptron e Perceptron Multicamadas](https://github.com/lgpcarames/mlnotes/tree/main/Notas_Portugues/Python_Files/ML_/Neural_Network)
+- Notas sobre [Processamento de Linguagem Natural](https://github.com/lgpcarames/mlnotes/blob/main/Notas_Portugues/Python_Files/ML_/NLP_course/nltk_notes.ipynb)
 
 
-
-
+# Estatísticas
 <div align="center">
   
   <a href="https://github.com/lgpcarames">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lgpcarames&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgpcarames&layout=compact&langs_count=7&theme=outrun"/>
-  <img align="right" alt="lucas-pic" width="400" style="border-radius:25px;" src="https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465">
+
 </div>
   
   
