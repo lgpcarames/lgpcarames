@@ -1,4 +1,8 @@
 # Sobre Mim
+
+![Olá, meu nome é Lucas Caramês, sou bacharel e mestre em física pela Universidade Federal do Pará. Atualmente, estou no último ano de doutorado pela Universidade Federal do Rio Grande do Norte, onde venho trabalhando com modelagem e simulação computacional de sistemas complexos e estratégias ótimas de busca aleatória. Também me dedico em estudar e trabalhar com análise estatística e modelos de Machine e Deep Learning, empregando em contextos de negócio, arte e análises de imagem e texto.](https://media.discordapp.net/attachments/861676738080800800/930634628514062416/giphy.gif?width=305&height=465)
+
+<!--
 <body>
 <div class="container">
 
@@ -13,7 +17,7 @@
   
 
   
-  </body>
+  </body>!-->
   
   <a href="https://instagram.com/lgpcarames" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lgpcarames@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
