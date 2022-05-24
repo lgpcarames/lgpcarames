@@ -17,22 +17,24 @@
 - Modelos supervisionados, não-supervisionados e de Deep Learning
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white">
-  <img align="center" alt="c" src="https://img.shields.io/badge/-C-8DD6F9?style=flat-square&logo=c&logoColor=white">
-  <img align="center" alt="jupyter" src="https://img.shields.io/badge/-Jupyter_Notebook-FB542B?style=flat-square&logo=jupyter&logoColor=white">
-  <img align="center" alt="docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white">
-  <img align="center" alt="R" src="https://img.shields.io/badge/-R-007ACC?style=flat-square&logo=R&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/-My_SQL-2088FF?style=flat-square&logo=mysql&logoColor=white">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img align="center" alt="c" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white">
+  <img align="center" alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white">
+  <img align="center" alt="jupyter" src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white">
+  <img align="center" alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img align="center" alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-F05032?style=flat-square&logo=tensorflow&logoColor=white">
-  <img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/-Visual_Studio_Code-1a73e8?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <img align="center" alt="sklearn" src="https://img.shields.io/badge/-Sklearn-E34F26?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/-My_SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img align="center" alt="visualstudiocode" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img align="center" alt="anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+  <img align="center" alt="azuredevops" src="https://img.shields.io/badge/-Azure_Devops-0078D7?style=flat-square&logo=azuredevops&logoColor=white">
+  <img align="center" alt="sklearn" src="https://img.shields.io/badge/-Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img align="center" alt="overleaf" src="https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white">
+  <img align="center" alt="wolframlanguage" src="https://img.shields.io/badge/-Wolfram_Mathematica-DD1100?style=flat-square&logo=wolframmathematica&logoColor=white">
+  
+  
  
-  
-  
-  
-  
-
 </div>
 
 # Projetos
